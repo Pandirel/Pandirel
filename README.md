@@ -1,3 +1,3 @@
 # Pandire Devs of yesteryear
-### Estudiando
+### Studying
 ![img](https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif)
