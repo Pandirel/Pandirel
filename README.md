@@ -17,7 +17,7 @@ I'm also continuously learning new skills while building tools to help others. ð
 ## Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,astro,mongodb,postgres,git,nextjs" style="width: 85%;" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,astro,mongodb,postgres,git,nextjs" style="width: 55%;" alt="Technologies" />
 </div>
 
 ---
